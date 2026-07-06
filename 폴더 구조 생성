@@ -1,0 +1,9 @@
+src
+├── assets
+├── components
+├── pages
+├── layouts
+├── hooks
+├── services
+├── styles
+└── utils
